@@ -1,0 +1,36 @@
+_repo: The-Prairie-Chief_21694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Missionaries -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Trappers -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+title: The Prairie Chief
+url: http://www.gutenberg.org/ebooks/21694
